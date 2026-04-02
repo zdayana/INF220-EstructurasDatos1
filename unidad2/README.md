@@ -146,6 +146,31 @@ Cada fila es una lista enlazada de nodos (columna, valor) no-ceros.
 
 ---
 
+## 🧪 Ruta práctica de la unidad
+
+### Nivel A · Base (mecánico)
+
+- Implementar operaciones fundamentales de polinomios (`sumar`, `evaluar`).
+- Implementar operaciones básicas de conjuntos (`union`, `interseccion`).
+
+### Nivel B · Aplicación
+
+- Resolver un problema de inventario usando conjuntos y diferencias.
+- Representar una matriz dispersa con tripletas y consultar posiciones.
+
+### Nivel C · Integración
+
+- Construir una mini app que combine polinomios, conjuntos y persistencia.
+- Comparar dos representaciones de matriz dispersa y justificar la elección.
+
+### Entregable sugerido
+
+- Implementación de los tres ADT con pruebas de casos borde.
+- Informe corto de complejidad por operación crítica.
+- Dataset de ejemplo y script de ejecución reproducible.
+
+---
+
 ## 📁 Archivos de esta unidad
 
 | Archivo | Descripción |

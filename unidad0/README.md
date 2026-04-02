@@ -191,6 +191,31 @@ if __name__ == "__main__":
 
 ---
 
+## 🧪 Ruta práctica de la unidad
+
+### Nivel A · Base (mecánico)
+
+- Normalizar nombres y estilo PEP 8 en un archivo con errores.
+- Agregar docstrings y type hints a una estructura simple.
+
+### Nivel B · Aplicación
+
+- Diseñar una interfaz con `ABC` para una estructura lineal.
+- Implementar manejo de errores con excepciones propias.
+
+### Nivel C · Integración
+
+- Reestructurar un mini proyecto a formato de carpetas del curso.
+- Incorporar `main`, módulo `estructuras` y validaciones de casos borde.
+
+### Entregable sugerido
+
+- Un script corregido con estilo y docstrings.
+- Una interfaz abstracta funcional.
+- Un mini reporte de cambios (1 página): qué se corrigió y por qué.
+
+---
+
 ## 📁 Archivos de esta unidad
 
 | Archivo | Descripción |

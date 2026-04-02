@@ -4,6 +4,19 @@ Los proyectos son instancias de evaluación que integran los contenidos de múlt
 
 ---
 
+## 🧩 Microproyectos por unidad (recomendado)
+
+Antes de los proyectos grandes, se recomienda un microproyecto por unidad para consolidar práctica:
+
+1. Unidad I: modelador de datos y persistencia básica.
+2. Unidad II: gestor de polinomios y conjuntos con operaciones completas.
+3. Unidad III: simulador de turnos con cola, prioridad e historial.
+4. Unidad IV: explorador de rutas con BFS/DFS y métricas.
+
+Esto reduce la brecha entre teoría y proyecto final, y mejora la calidad de entregas integradoras.
+
+---
+
 ## 📋 Proyecto 1 · Sistema de Gestión de Turnos
 
 **Unidades integradas:** Unidad 0, Unidad I, Unidad III (Cola, Pila)

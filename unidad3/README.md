@@ -194,6 +194,31 @@ tabla[hash(clave) % capacidad].append((clave, valor))
 
 ---
 
+## 🧪 Ruta práctica de la unidad
+
+### Nivel A · Base (mecánico)
+
+- Implementar lista simple, pila y cola con operaciones básicas y validaciones.
+- Escribir pruebas de estructura vacía, desbordamiento y colisiones simples.
+
+### Nivel B · Aplicación
+
+- Simular una cola de atención con prioridad y tiempos de servicio.
+- Implementar historial de acciones con pila (deshacer/rehacer simplificado).
+
+### Nivel C · Integración
+
+- Integrar cola + pila + hash en un mini sistema de turnos.
+- Persistir estado de estructuras y restaurar sesión completa.
+
+### Entregable sugerido
+
+- Demo ejecutable por consola con menú y validación de entradas.
+- Casos de prueba documentados para cada estructura usada.
+- Evidencia de complejidad esperada en operaciones críticas.
+
+---
+
 ## 📁 Archivos de esta unidad
 
 | Archivo | Descripción |

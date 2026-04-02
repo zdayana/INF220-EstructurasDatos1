@@ -162,6 +162,31 @@ El peor caso se evita con una buena **función hash** y manteniendo el **factor 
 
 ---
 
+## 🧪 Ruta práctica de la unidad
+
+### Nivel A · Base (mecánico)
+
+- Implementar BFS y DFS sobre grafos pequeños con control de visitados.
+- Trazar manualmente el orden de recorrido para validar resultados.
+
+### Nivel B · Aplicación
+
+- Resolver caminos mínimos sin peso usando BFS.
+- Detectar componentes conectados con DFS.
+
+### Nivel C · Integración
+
+- Construir un explorador de rutas que permita elegir BFS o DFS.
+- Medir tiempos sobre distintos tamaños de entrada y comparar resultados.
+
+### Entregable sugerido
+
+- Script con ambos algoritmos y menú de selección.
+- Dataset de grafos de prueba (pequeño, mediano y grande).
+- Tabla de complejidad observada y conclusiones técnicas.
+
+---
+
 ## 📁 Archivos de esta unidad
 
 | Archivo | Descripción |

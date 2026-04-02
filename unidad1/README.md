@@ -262,6 +262,31 @@ def cargar_estructura(archivo):
 
 ---
 
+## 🧪 Ruta práctica de la unidad
+
+### Nivel A · Base (mecánico)
+
+- Implementar una interfaz ADT mínima con `ABC` y probar sus métodos.
+- Construir un `ArrayEstatico` con validación de límites.
+
+### Nivel B · Aplicación
+
+- Comparar una representación estática y una dinámica para el mismo problema.
+- Generar datos simulados y documentar supuestos de prueba.
+
+### Nivel C · Integración
+
+- Diseñar un flujo completo: generación de datos, almacenamiento y persistencia.
+- Cargar desde archivo y reconstruir la estructura para continuar operaciones.
+
+### Entregable sugerido
+
+- Código con dos implementaciones comparadas (estática vs dinámica).
+- Tabla simple de resultados (tiempo, memoria y facilidad de uso).
+- Archivo de persistencia reproducible (`json` o `csv`).
+
+---
+
 ## 📁 Archivos de esta unidad
 
 | Archivo | Descripción |

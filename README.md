@@ -92,6 +92,26 @@ Proyectos Integradores
 
 ---
 
+## 🧭 Modelo didáctico 2026
+
+Para mejorar la claridad práctica del curso, cada unidad ahora debe trabajarse con una secuencia fija:
+
+1. Objetivos medibles (qué se logra al terminar la clase)
+2. Teoría breve guiada (15-20 minutos)
+3. Ejemplo resuelto con traza
+4. Práctica por niveles: A (base), B (aplicación), C (integración)
+5. Cierre con checklist, errores frecuentes y autoevaluación
+
+Material de apoyo docente:
+
+- [Guía didáctica](./didactica/README.md)
+- [Plantilla de unidad](./didactica/01_plantilla_unidad.md)
+- [Plantilla de ejercicio evaluable](./didactica/02_plantilla_ejercicio.md)
+- [Rúbrica única del curso](./didactica/03_rubrica_unica.md)
+- [Plan de prácticas por niveles](./didactica/04_plan_practicas.md)
+
+---
+
 ## 📚 Bibliografía
 
 - A.M. Tenenbaum — *Estructuras de Datos en C*, Prentice Hall
